@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome AFRIDIC Conference
 
 You can use the [editor on GitHub](https://github.com/atwani/AFRIDIC/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
